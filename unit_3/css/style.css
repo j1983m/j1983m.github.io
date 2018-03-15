@@ -1,0 +1,53 @@
+body {
+	font-family: helvetica;
+}
+
+h1 {
+	color: #ffffff;
+	text-transform: uppercase;
+	font-family: helvetica;
+	font-size: 40px;
+}
+
+#slogan {
+	font-style: italic;
+	font-size: 28px;
+	font-family: serif;
+	color: #ffffff;
+}
+
+
+img {
+	width: 500px
+
+}
+
+p {
+	padding-top: 10px;
+	color: #000000;
+}
+
+li {
+	color: #000000;
+}
+
+#top {
+
+	background: gray;
+}
+
+#lower {
+	background: #ffffff;
+}
+
+a {
+	color: #000000;
+	text-decoration: none;
+	border-bottom: 5px solid cyan;
+	box-shadow: 0 -3px 0 cyan inset;
+}
+
+a:hover {
+background-color: cyan;
+color: #000000;
+}
